@@ -1,0 +1,9 @@
+<div class="goog-menuitem-content">
+	<span aria-label="Delete row 969 d">
+		<span>
+			<span class="goog-menuitem-mnemonic-hint">D</span>
+			elete 
+		</span>
+		<strong>row 969</strong>
+	</span>
+</div>
